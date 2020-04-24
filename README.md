@@ -1,4 +1,7 @@
 # BingCourseSniper
+
+(Thanks to [Henry](https://github.com/HenryBurns) for the original inspiration & code [@HenryBurns/CoRE_project](https://github.com/HenryBurns/CoRE_project))
+
 Sometimes a course is full without a waitlist, you know they'll be more spots, but you want to make sure you're the first to get them.
 
 ### What it does
